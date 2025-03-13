@@ -1,0 +1,18 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  BaseSystem.cpp
+  SampleParticle.cpp
+  SampleGravitySimulator.cpp
+  ResourceManager.cpp
+  PathSimulator.cpp
+  ObjectPath.cpp
+  myScene.cpp
+  Hermite.cpp
+  GlobalResourceManager.cpp
+  CircleSimulator.cpp
+  BaseSimulator.cpp
+  BaseObject.cpp
+  animTcl.cpp
+  anim.cpp
+  Generating Code...
+C:\Users\Riley\Desktop\CSC473\Assignment1Complete\Assignment1Complete\anim\Hermite.cpp(441): warning C4715: 'Hermite::command': not all control paths return a value
+  anim.vcxproj -> C:\Users\Riley\Desktop\CSC473\Assignment1Complete\Assignment1Complete\Build\anim.exe
