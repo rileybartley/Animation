@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/Riley/Desktop/CSC305/Assignment4/Assignment_4/build",
+  "command": "/usr/bin/clang++ -DDATA_DIR=\\\"/Users/Riley/Desktop/CSC305/Assignment4/Assignment_4/data/\\\" -isystem /Users/Riley/Desktop/CSC305/Assignment4/Assignment_4/../ext/eigen -isystem /Users/Riley/Desktop/CSC305/Assignment4/Assignment_4/../ext/stb -isystem /Users/Riley/Desktop/CSC305/Assignment4/Assignment_4/../ext/gif-h -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/assignment4.dir/src/main.cpp.o -c /Users/Riley/Desktop/CSC305/Assignment4/Assignment_4/src/main.cpp",
+  "file": "/Users/Riley/Desktop/CSC305/Assignment4/Assignment_4/src/main.cpp"
+}
+]
