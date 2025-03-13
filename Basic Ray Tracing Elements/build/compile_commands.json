@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/Riley/Desktop/CSC305/CG-Spring-2023-main/Assignment_3/build",
+  "command": "/usr/bin/clang++  -isystem /Users/Riley/Desktop/CSC305/CG-Spring-2023-main/Assignment_3/../ext/eigen -isystem /Users/Riley/Desktop/CSC305/CG-Spring-2023-main/Assignment_3/../ext/stb -isystem /Users/Riley/Desktop/CSC305/CG-Spring-2023-main/Assignment_3/../ext/gif-h -O2 -g -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/assignment3.dir/src/main.cpp.o -c /Users/Riley/Desktop/CSC305/CG-Spring-2023-main/Assignment_3/src/main.cpp",
+  "file": "/Users/Riley/Desktop/CSC305/CG-Spring-2023-main/Assignment_3/src/main.cpp"
+}
+]
